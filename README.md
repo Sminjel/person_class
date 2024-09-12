@@ -54,5 +54,6 @@ class Person:
         print(f"Hello, my name is {self.name}. I am {self.age} years old and I am {self.gender}.")
 
 ## Author
+
 1. GitHub smangelent@gmail.com.
 2. (https://github.com/smangelent@gmail.com)
